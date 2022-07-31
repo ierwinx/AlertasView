@@ -1,10 +1,3 @@
-//
-//  AlertasViewApp.swift
-//  AlertasView
-//
-//  Created by Erwin Luz León on 31/07/22.
-//
-
 import SwiftUI
 
 @main
